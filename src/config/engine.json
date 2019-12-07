@@ -1,0 +1,27 @@
+{
+  "engineName": "national-parks-demo",
+  "hostIdentifier": "host-z3e3by",
+  "endpointBase": "https://host-z3e3by.api.swiftype.com",
+  "searchKey": "search-qcu9kahq53m2542zp9vhqi1k",
+  "resultFields": [
+    "description",
+    "nps_link",
+    "location",
+    "states",
+    "title",
+    "visitors",
+    "world_heritage_site",
+    "acres",
+    "square_km",
+    "date_established",
+    "id"
+  ],
+  "sortFields": [
+
+  ],
+  "facets": [
+    "states",
+    "visitors"
+  ],
+  "titleField": "title"
+}
